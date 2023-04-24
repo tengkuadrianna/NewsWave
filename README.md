@@ -13,7 +13,7 @@ os.environ['SECRET'] =
 
 # Introduction
 
-Introducing my latest solo project - a News Website name **NewsWave** powered by the **Django framework**. I've designed it to deliver the latest news in a smart and sophisticated way, with easy navigation and a user-friendly interface. Join me on this exciting wave of news reporting!
+This is my Individual Final Year Project, a News Website name **NewsWave** powered by the **Django framework**. I've designed it to deliver the latest news in a smart and sophisticated way, with easy navigation and a user-friendly interface. 
 
 # How to run the Project
 
