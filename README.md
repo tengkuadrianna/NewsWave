@@ -129,3 +129,7 @@ python3 manage.py runserver
 |-- README.md
 └── requirements.txt
 ```
+
+# Copyrights &#169; 
+
+Tengku Binti Tengku Anuar 21039511
